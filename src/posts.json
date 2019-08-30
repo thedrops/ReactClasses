@@ -1,0 +1,20 @@
+{
+
+    "posts":[
+        {
+            "id":1,
+            "url":"https://image.freepik.com/fotos-gratis/neon-sinal-barzinhos-imagem-coquetel_23-2148184280.jpg",
+            "titulo":"Drink"
+        },
+        {
+            "id":2,
+            "url":"https://image.freepik.com/fotos-gratis/neon-sinal-barzinhos-imagem-coquetel_23-2148184280.jpg",
+            "titulo":"Drink"
+        },
+        {
+            "id":3,
+            "url":"https://image.freepik.com/fotos-gratis/neon-sinal-barzinhos-imagem-coquetel_23-2148184280.jpg",
+            "titulo":"Drink"
+        }
+    ]
+}
